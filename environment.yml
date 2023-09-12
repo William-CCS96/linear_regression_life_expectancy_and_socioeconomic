@@ -1,0 +1,11 @@
+# conda env create --file environment.yml
+name: linear_regression_life_expectancy_and_socioeconomic
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.10.12
+  - pip:
+    
