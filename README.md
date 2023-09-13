@@ -1,5 +1,3 @@
-# Multivariable linear regression life expectancy and socioeconomic status
-
 <p align="center">
   <img src="/images/Logo-personal_Fondo_blanco.png" alt="Logo_personal">
 </p>
@@ -7,7 +5,6 @@
 <div align="center">
   <h1 align="center">Multivariable linear regression life expectancy and socioeconomic status<h1>
 </div>
-
 
 By: William-CCS96
 
